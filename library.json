@@ -1,5 +1,5 @@
 {
-  "name": "M5-Arduino-Depends",
+  "name": "M5-Depends",
   "description": "Library for M5",
   "keywords": "M5-Depends",
   "authors": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tinyu-Zhao/M5-Arduino-Depends.git"
+    "url": "https://github.com/Tinyu-Zhao/M5-Depends.git"
   },
   "version": "0.0.1",
   "framework": "arduino",
