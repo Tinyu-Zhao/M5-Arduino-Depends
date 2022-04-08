@@ -1,0 +1,16 @@
+{
+  "name": "M5-Arduino-Depends",
+  "description": "Library for M5",
+  "keywords": "M5-Depends",
+  "authors": {
+    "name": "M5Stack",
+    "url": "http://www.m5stack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tinyu-Zhao/M5-Arduino-Depends.git"
+  },
+  "version": "0.0.1",
+  "framework": "arduino",
+  "platforms": "espressif32"
+}
